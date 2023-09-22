@@ -1,0 +1,28 @@
+.Person {
+  font-family: Arial, sans-serif;
+  background-color: #d3fd03;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 20px auto;
+  max-width: 300px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.Person h2 {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.Person ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Person li {
+  margin-bottom: 5px;
+}
+
+.Person li:first-child {
+  font-weight: bold;
+}
